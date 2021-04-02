@@ -278,6 +278,7 @@ NSString * const kGenericSpyPixelRegex = @"<img[^>]+(width\\s*=[\"'\\s]*[01]p?x?
             @"nethunt.com/api/v1/track/email/",
             @"nethunt.co(.*)\\?/pixel.gif"
         ],
+        @"Newsletter2Go": @[@"amxe.net/\\S+.gif"],
         @"NewtonHQ": @[@"tr.cloudmagic.com"],
         @"OpenBracket": @[@"openbracket.co/track"],
         @"Opicle": @[@"track.opicle.com"],
